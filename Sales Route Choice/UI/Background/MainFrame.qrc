@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="MainFrame">
+    <file>mainFrame.png</file>
+  </qresource>
+</RCC>
